@@ -3,7 +3,7 @@
 
 This project has three main functions that work as a fun application for encoding and decoding simple messages.
 
-##Caesar Shift
+Caesar Shift
 
 
 https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/b6a94b251bbbe6dae7e3e84ed8be33a4-image.png
@@ -12,7 +12,7 @@ The Caesar Shift is a type of substitution cipher originally used by Julius Caes
 It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
 
 
-##Polybius Square
+Polybius Square
 
 		1	  2	  3	  4	  5
 	1	A	  B	  C	  D	  E
@@ -29,7 +29,7 @@ In this example, the grid will be arranged as above and coordinates will be read
 
 
 
-##Substitution Cipher
+Substitution Cipher
 
 https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/19c12a6ee38ceddd82d75e12edf53189-image.png
 
